@@ -27,4 +27,4 @@ help for local running:
         !! if pyspark is not compatible with java check version 3.4.1
 
 
-raw data files can be downloaded from here: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
+raw data files can be downloaded from here: https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset# Hadoop-UNI
