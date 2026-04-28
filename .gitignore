@@ -3,3 +3,5 @@ data/raw/*
 !data/raw/.gitkeep
 data/processed/*
 !data/processed/.gitkeep
+data/output_predictions/*
+!data/output_predictions/.gitkeep
