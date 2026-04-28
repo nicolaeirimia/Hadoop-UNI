@@ -5,7 +5,7 @@ This project processes, analyzes, and models the Yelp Open Dataset using Apache 
 ## 📂 Project Structure
 
 To maintain a clean and modular codebase, the project is split into multiple files:
-
+```text
 yelp_spark_project/
 │
 ├── README.md                   # Project documentation and 
@@ -17,7 +17,7 @@ yelp_spark_project/
     ├── 01_data_ingestion.py    # PySpark script: Loads JSON, saves to HDFS in multiple formats
     ├── 02_EDA_and_Queries.ipynb # Jupyter Notebook: Statistics, distributions, and visualizations + 3 spark queries
 
-
+```
 help for local running:
     in terminal run the following commands
         python -m venv venv
